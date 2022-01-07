@@ -10,7 +10,7 @@ body {
 Add some style blocks below this line to style the card.
 */
 section {
-    width: 50%;
+    width: 25%;
     margin: 10px;
     border: solid 1px #CCC; 
 }
